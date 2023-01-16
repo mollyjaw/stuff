@@ -1,0 +1,20 @@
+
+{
+    "embedmode": false, 
+    "webhooknotifs": "False",
+    "themecolor": "ini",
+    "spy": {
+        "privnote_url": "",
+        "nitro_url": "",
+        "giveaways_url": "",
+        "mentions_url": "",
+        "friendreqs_url": "",
+        "guildleave_url": "",
+        "edited_messages": ""
+    },
+
+    "afk": {
+        "message" : "",
+        "on": true
+    }
+}
