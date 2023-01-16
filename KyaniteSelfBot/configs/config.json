@@ -1,0 +1,27 @@
+{
+    "Token": "Token-Here",
+    "WindowsNotification": true,
+    "Prefix": ".",
+    "AltPrefix": ",",
+    "Bot": "False",
+    "DiscordRPC": "False",
+    "Sounds": "True",
+    "Selfbot": "True",
+    "SneakyMode": "True",
+    "LogCommands": "True",
+    "DeleteTimeout": 15.0,
+    "SafeMode": "False",
+    "embedcolor": "15548997",
+    "embedimage": "https://preview.redd.it/c67dacd70avy.jpg?auto=webp&s=ce7f80f8057e4bdb37ef1a8788347712cdaa43a4",
+    "embedfooter": "Krypted x Floppa",
+    "tts_language": "en",
+    "AntiFriendSpam": "False",
+    "loggers": {
+        "LogDeletedMessages": "True",
+        "Pings": "True",
+        "Guild_Removal": "True"
+    },
+    "spytoggles": {
+        "ghostping": "True"
+    }
+}
