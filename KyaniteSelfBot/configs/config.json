@@ -1,25 +1,29 @@
 {
-    "Token": "Token-Here",
+    "Token": "",
     "WindowsNotification": true,
     "Prefix": ".",
     "AltPrefix": ",",
     "Bot": "False",
-    "DiscordRPC": "False",
-    "Sounds": "True",
     "Selfbot": "True",
+    "Sounds": "True",
+    "DiscordRPC": "False",
     "SneakyMode": "True",
     "LogCommands": "True",
-    "DeleteTimeout": 15.0,
+    "DeleteTimeout": 10.0,
     "SafeMode": "False",
     "embedcolor": "15548997",
     "embedimage": "https://preview.redd.it/c67dacd70avy.jpg?auto=webp&s=ce7f80f8057e4bdb37ef1a8788347712cdaa43a4",
     "embedfooter": "Krypted x Floppa",
     "tts_language": "en",
     "AntiFriendSpam": "False",
+    "NotificationSettings": {
+        "MessageEdit": false
+    },
     "loggers": {
-        "LogDeletedMessages": "True",
         "Pings": "True",
-        "Guild_Removal": "True"
+        "Guild_Removal": "True",
+        "Nitro_Snipe": "True",
+        "LogDeletedMessages": "True"
     },
     "spytoggles": {
         "ghostping": "True"
