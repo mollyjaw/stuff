@@ -9,7 +9,7 @@
     "DiscordRPC": "False",
     "SneakyMode": "True",
     "LogCommands": "True",
-    "DeleteTimeout": 10.0,
+    "DeleteTimeout": 30.0,
     "SafeMode": "False",
     "embedcolor": "15548997",
     "embedimage": "https://preview.redd.it/c67dacd70avy.jpg?auto=webp&s=ce7f80f8057e4bdb37ef1a8788347712cdaa43a4",
@@ -20,10 +20,11 @@
         "MessageEdit": false
     },
     "loggers": {
-        "Pings": "True",
+        "Pings": true,
         "Guild_Removal": "True",
-        "Nitro_Snipe": "True",
-        "LogDeletedMessages": "True"
+        "Nitro_Snipe": true,
+        "LogDeletedMessages": true,
+        "WebhookModifications": true
     },
     "spytoggles": {
         "ghostping": "True"
