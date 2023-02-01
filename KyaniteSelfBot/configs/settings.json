@@ -4,7 +4,7 @@
     "webhooknotifs": true,
     "themecolor": "ini",
     "spy":{
-        "nitro_url": "",
+        "nitro_url": ""
     },
 
     "afk": {
