@@ -1,3 +1,5 @@
 https://github.com/Kyxnite/stuff/blob/main/guides/web/icons/winrar-min.png?raw=true~Winrar~https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe
 https://www.7-zip.org/7ziplogo.png~7Zip~https://www.7-zip.org/a/7z2407-x64.exe
 https://www.iobit.com/tpl/images/products/unlocker/unlock_file.png~IOBit unlocker~https://cdn.iobit.com/dl/unlocker-setup.exe
+https://a.fsdn.com/allura/p/processhacker/icon?1518244867~Process Hacker~https://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-2.39-setup.exe/download
+https://upload.wikimedia.org/wikipedia/commons/8/83/Revouninstallerpro_icon.png~Revo Uninstaller~https://download.revouninstaller.com/download/revosetup.exe
